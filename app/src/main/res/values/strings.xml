@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CatApi</string>
+    <string name="openText">Random Cat Image to make up your day</string>
+    <string name="endText">More about us</string>
+    <string name="welcomeText">Welcome to Learn Cat</string>
+    <string name="explainText1">This app provide cat images to make people day!</string>
+    <string name="explainText2">It also contain learning information about cat breeds to educate the user.</string>
+    <string name="catApiText"><a href="https://thecatapi.com">Featured CatAPI</a></string>
+    <string name="refresh">Get a new Image</string>
+    <string name="CheckGeo">Are there any breed from your country?</string>
+    <string name="checkBreed">Check the Breed</string>
+    <string name="learnBreed">Learn a cat breed</string>
+    <string name="breedName">Breed</string>
+    <string name="breedOrigin">Origin</string>
+    <string name="breedTemperament">Temperament</string>
+    <string name="breedLifespan">Lifespan</string>
+    <string name="breedDes">Description</string>
+    <string name="breedWeight">Weight</string>
+    <string name="refreshBreed">Learn a new breed</string>
+</resources>
